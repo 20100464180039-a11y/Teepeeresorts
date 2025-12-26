@@ -1,0 +1,59 @@
+nav {  
+    background-color: rgb(154, 226, 179);
+    margin: 10px;
+    padding: 0px ;
+    float: top right;
+
+} 
+
+nav a:hover{ 
+    background-color: rgb(181, 211, 223);
+} 
+
+h2 {
+    color:rgb(112, 112, 222);
+    text-align: center;
+    font-size: 70px;
+    font-style: italic;
+    
+}
+body {
+      background-color: #FDF6E3;
+      font-style: italic;
+      font-size: xx-large;
+}
+p{
+    font-size: 50px;
+    font-style: italic;
+    color: #2D3436;
+} 
+a{
+  background-color: rgb(205, 209, 101);
+  text-decoration: inherit;
+  text-decoration-color: powderblue;
+  flex-direction: row;
+  font-style: italic;
+  flex-wrap: wrap;
+} 
+body{
+     background-image:url(images/images/bg.jpg);
+}
+
+iframe{
+      display: block;
+      margin-right: 0%;
+      width: 200px;
+      height: 200px;
+}
+.logo{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    width: 200px;
+    height: auto;
+}
+.lego {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}

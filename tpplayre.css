@@ -1,0 +1,61 @@
+nav {  
+    background-color: rgb(142, 165, 227);
+    margin: 10px;
+    padding: 0px ;
+    float: top right;
+
+} 
+nav a:hover{ 
+    background-color: lavender; 
+} 
+
+h2 {
+    color:rgb(214, 167, 126);
+    text-align: center;
+    font-size: 70px;
+    font-style: italic;
+    
+}
+body {
+      background-color: #dff6ff;
+      font-style: italic;
+      font-size: xx-large;
+}
+p{
+    font-size: 50px;
+    font-style: italic;
+    color:#00FFD1;
+} 
+a{
+  background-color: plum;
+  text-decoration: inherit;
+  text-decoration-color: powderblue;
+  flex-direction: row;
+  font-style: italic;
+  flex-wrap: wrap;
+} 
+body{
+     background-image:url(images/images/bg.jpg);
+}
+
+iframe{
+      display: block;
+      margin-right: 0%;
+      width: 200px;
+      height: 200px;
+}
+.logo{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    width: 200px;
+    height: auto;
+}
+.lego {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+img {
+    align-items: center;
+}

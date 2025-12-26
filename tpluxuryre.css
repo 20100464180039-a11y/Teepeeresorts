@@ -1,0 +1,51 @@
+nav {  
+    background-color: rgb(234, 227, 170);
+    margin: 10px;
+    padding: 0px ;
+    float: top right;
+
+} 
+
+nav a:hover{ 
+    background-color: rgb(223, 181, 197);
+} 
+
+h2 {
+    color:rgb(203, 203, 255);
+    text-align: center;
+    font-size: 70px;
+    font-style: italic;
+    
+}
+body {
+      background-color:#4C566A;
+      font-style: italic;
+      font-size: xx-large;
+}
+p{
+    font-size: 50px;
+    font-style: italic;
+    color: #ECEFF4;
+} 
+a{
+  background-color: plum;
+  text-decoration: inherit;
+  text-decoration-color: powderblue;
+  flex-direction: row;
+  font-style: italic;
+  flex-wrap: wrap;
+} 
+body{
+     background-image:url(images/images/bg.jpg);
+}
+
+iframe{
+      display: block;
+      margin-right: 0%;
+      width: 200px;
+      height: 200px;
+}
+.lr{
+    width: 150px;
+    height: 150px;
+}
